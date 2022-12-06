@@ -1,1 +1,1 @@
-# IS-460-class-project
+Enterprise network solo project for a Networking & IT Infrastructure college class from Fall 2022
